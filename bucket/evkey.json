@@ -1,0 +1,27 @@
+{
+    "version": "5.0.1",
+    "description": "Vietnamese Keyboard",
+    "homepage": "https://evkeyvn.com",
+    "license": "Freeware",
+    "notes": "",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/lamquangminh/EVKey/releases/download/Release/EVKey.zip",
+            "hash": "9671472133e5561eeff67ad7237c927d2acaa779e158c02c97d1504deee46734"
+        },
+        "32bit": {
+            "url": "https://github.com/lamquangminh/EVKey/releases/download/Release/EVKey.zip",
+            "hash": "9671472133e5561eeff67ad7237c927d2acaa779e158c02c97d1504deee46734"
+        }
+    },
+    "shortcuts": [
+        [
+            "EVKey32.exe",
+            "EVKey (32 bit)"
+        ],
+        [
+            "EVKey64.exe",
+            "EVKey (64 bit)"
+        ]
+    ]
+}
